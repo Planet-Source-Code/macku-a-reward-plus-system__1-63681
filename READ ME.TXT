@@ -1,0 +1,15 @@
+This application uses ODBC connection.  You should configure it first.
+
+1.) Go to Administrative Tools and select ODBC
+2.) Click System DSN tab and press Add button.
+3.) Specify Microsoft Access Driver (*.MDB) and press Finish button.
+4.) On Data Source name, input MainData
+5.) Press Select button and browse the MainData.Mdb (provided with my application)
+
+Hope it will help your application! Don't forget to vote and send me feedback! Thanks you so much!
+
+
+Current Security Settings:
+
+Username: Admin
+Password: 1
